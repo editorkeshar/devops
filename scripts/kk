@@ -1,0 +1,9 @@
+echo " Enter your name"
+read fname
+echo "$fname , Please enter your age"
+read fage
+echo  " Enter your name"
+read sname
+echo "$fname , Please enter your age"
+read sage
+if  
